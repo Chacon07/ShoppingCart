@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
-      "projectName": "ShoppingCart",
-      "projectPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+      "projectUniqueName": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\Module1.csproj",
+      "projectName": "Module1",
+      "projectPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\Module1.csproj",
       "packagesPath": "C:\\Users\\alanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\obj\\",
+      "outputPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alanc\\AppData\\Roaming\\NuGet\\NuGet.Config",

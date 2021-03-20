@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj": {}
+    "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\ShoppingCart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj": {
+    "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\ShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+        "projectUniqueName": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\ShoppingCart.csproj",
         "projectName": "ShoppingCart",
-        "projectPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+        "projectPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\ShoppingCart.csproj",
         "packagesPath": "C:\\Users\\alanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\obj\\",
+        "outputPath": "C:\\Users\\alanc\\OneDrive\\Desktop\\ShoppingCart\\Module1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
