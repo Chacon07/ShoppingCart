@@ -6,12 +6,12 @@ namespace Module2
     {
         static void Main(string[] args)
         {
-            Users user = new Users("Alan","20","April 7th of the year 2000");
+            Users user = new Users("Alan", "20", "April 7th of the year 2000");
 
             string format = "My name is {0}, I am {1} years old and I was born on {2}.";
 
-            Console.WriteLine(String.Format(format, user.name,user.age,user.birthday));
-
+            Console.WriteLine(String.Format(format, user.name, user.age, user.birthday));
+            //I created a constructor to add 3 parameters to assign values to the properties
         }
     }
     public class Users
@@ -25,28 +25,5 @@ namespace Module2
             this.age = newAge;
             this.birthday = newBirthday;
         }
-    }
-    public class Roles
-    {
-        public string beginner { get; set; }
-        public string expirinced { get; set; }
-        public string veteran { get; set; }
-    }
-    public class Images
-    {
-        public string brightImage { get; set; }
-        public string darkImage { get; set; }
-    }
-    public class Posts
-    {
-        public string funny { get; set; }
-        public string sports { get; set; }
-        public string educational { get; set; }
-        
-    }
-    public class Comments
-    {
-        public string shortComments { get; set; }
-        public string longComments { get; set; }
     }
 }
