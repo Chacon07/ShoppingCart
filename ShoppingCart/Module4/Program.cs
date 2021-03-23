@@ -6,7 +6,19 @@ namespace Module4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DateTime firstDate = new DateTime(1999, 01, 06);
+            DateTime secondDate = new DateTime(2004, 03, 15);
+
+            int result = DateTime.Compare(firstDate, secondDate);
+
+            if(result ==1)
+            {
+                Console.WriteLine(firstDate);
+            }
+            else
+            {
+                Console.WriteLine(secondDate);
+            }
         }
     }
 }

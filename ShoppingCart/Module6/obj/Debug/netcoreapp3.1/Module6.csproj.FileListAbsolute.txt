@@ -1,0 +1,13 @@
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\bin\Debug\netcoreapp3.1\Module6.exe
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\bin\Debug\netcoreapp3.1\Module6.deps.json
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\bin\Debug\netcoreapp3.1\Module6.runtimeconfig.json
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\bin\Debug\netcoreapp3.1\Module6.runtimeconfig.dev.json
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\bin\Debug\netcoreapp3.1\Module6.dll
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\bin\Debug\netcoreapp3.1\Module6.pdb
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.csprojAssemblyReference.cache
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.AssemblyInfoInputs.cache
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.AssemblyInfo.cs
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.csproj.CoreCompileInputs.cache
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.dll
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.pdb
+C:\Users\alanc\OneDrive\Desktop\ShoppingCart\ShoppingCart\Module6\obj\Debug\netcoreapp3.1\Module6.genruntimeconfig.cache
